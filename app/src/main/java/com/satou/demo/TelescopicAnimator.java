@@ -7,7 +7,7 @@ import android.view.View;
 /**
  * Created by Mitsuki on 2018/3/16.
  */
-
+@Deprecated
 public class TelescopicAnimator {
     private final String tag = "TelescopicAnimator";
 
